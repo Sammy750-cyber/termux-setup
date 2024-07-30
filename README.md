@@ -1,5 +1,5 @@
 # TERMUX SET-UP TOOL
-<p align="center"><img src="screenshorts/setupimg.PNG">
+<p align="center"><img src="setupimg.PNG">
 
 <p>Tool for basic and  full termux installations. </p>
 <p>Setup our termux with just one click. Please follow and give star if you use this tool.</p>
